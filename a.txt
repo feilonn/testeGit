@@ -1,1 +1,2 @@
 Arquivo criado no ramo master
+Nova linha no arquivo a.txt
